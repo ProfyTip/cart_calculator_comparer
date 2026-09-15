@@ -8,8 +8,6 @@ This Vanilla JS script is designed for the rapid creation of shopping carts and 
 
 `calculator.js` builds a two-panel calculator interface. A user can search for catalog items, add items to either panel, remove items, and view totals.
 
-The code is designed for comparing different items and for use in product catalogs and shopping cart flows. It can process multiple object types, including objects that represent a single item value or a total monetary amount, and it supports conversion of monetary values into different currencies. The resulting data can also be sent to an external API for further processing or integration with other systems.
-
 The code returns HTML from `Calculator(options)`. The page places this HTML in an element with the id `calculator`.
 
 ## 2. Files
