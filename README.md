@@ -1,4 +1,5 @@
-This Vanilla JS script is designed for the rapid creation of shopping carts and product/item calculators, as well as comparing selected items across multiple carts or boxes.
+This script is written in Vanilla JS and is designed for quickly creating shopping carts, object/product calculators, as well as comparing selected objects across different carts/boxes.
+Additionally, each box/cart can have its own independent state that can be passed.
 
 <img width="803" height="827" alt="image" src="https://github.com/user-attachments/assets/895c2ddd-b36f-4a8f-8b57-5f013f490cdc" />
 
