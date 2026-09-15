@@ -1,4 +1,3 @@
-<img width="803" height="827" alt="image" src="https://github.com/user-attachments/assets/d8371b72-e2cc-4830-99db-4a6b8dc33f3a" /># cart_calculator_comparer
 This Vanilla JS script is designed for the rapid creation of shopping carts and product/item calculators, as well as comparing selected items across multiple carts or boxes.
 
 <img width="803" height="827" alt="image" src="https://github.com/user-attachments/assets/895c2ddd-b36f-4a8f-8b57-5f013f490cdc" />
